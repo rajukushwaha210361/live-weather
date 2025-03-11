@@ -1,0 +1,61 @@
+.container-fluid {
+    margin-top: 80px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 50%;
+    background: linear-gradient(135deg, #00feba, #5b548a);
+    border-radius: 20px;
+    padding: 20px;
+    padding-bottom: 60px;
+
+}
+
+.heading {
+    margin-bottom: 40px;
+    color: white;
+}
+
+.btn {
+    border-radius: 30px;
+    background-color: white;
+
+}
+
+.mainrow {
+
+
+    display: flex;
+    flex-direction: column;
+   
+    align-items: center;
+   
+
+}
+
+.temp {
+    color: white;
+    font-size: 40px;
+  
+}
+.city{
+    color:white;
+    margin-bottom: 20px;
+}
+
+.clearpng {
+    margin-top: 20px;
+    
+}
+
+.humidity {
+    color: white;
+
+    gap: 10px;
+}
+.city {
+    text-align: center;
+}
+.humiper{
+   padding-right: 10px;
+}
